@@ -17,6 +17,7 @@ _Bibliotecas de Python utilizadas/Python libraries used:_
 - Sys
 - Os
 - Socket
+- Colorama
 ```
 
 ### Instalação/Installation 🔧
@@ -31,7 +32,7 @@ https://www.python.org/downloads/
 _Tutorial de como instalar biblioteca:_
 
 ```
-Indisponivel
+- pip install colorama
 ```
 
 ## Autor/Author ✒️
