@@ -30,7 +30,7 @@ if len(sys.argv) < 2:
                      '\n' + '\tAutor: {}shangow'.format(YELLOW, RED, YELLOW, BLUE).center(76) +
                      '\n' + '\tVersion: {}2.0{}\n'.format(YELLOW, END).center(80) + '\n')
 else:
-    sys.exit('Usage: python scan.py')
+    sys.exit('Usage: python scanpower.py')
     os.system("clear || cls")
 # some colors
 init()
