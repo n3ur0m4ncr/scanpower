@@ -51,3 +51,7 @@ Este projeto é para estudo e uso pessoal. Aprecie com moderação.
 * Obrigado/ Thank you!
 * Comente com outros amigos e compartilhe! 📢
 * Comment with friends and share! 📢
+
+## MyFlix
+
+The `netflix-clone` folder contains a small static website that mimics the layout of Netflix. Open `index.html` in a browser to view a demo interface.
